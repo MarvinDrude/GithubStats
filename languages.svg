@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #7355dd; 
-  width: 58.796%;
+  width: 58.787%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 15.479%;
+  width: 15.486%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 7.723%;
+  width: 7.721%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 6.315%;
+  width: 6.313%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 4.940%;
+  width: 4.939%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 1.576%;
@@ -155,7 +155,7 @@ div.ellipsis {
   width: 0.695%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 0.644%;
+  width: 0.648%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
   width: 0.624%;
@@ -170,7 +170,7 @@ div.ellipsis {
   width: 0.403%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.296%;
+  width: 0.298%;
 " class="progress-item"></span><span style="
   background-color: #4f87c4; 
   width: 0.246%;
@@ -250,16 +250,16 @@ div.ellipsis {
   background-color: #3D6117; 
   width: 0.002%;
 " class="progress-item"></span><span style="
-  background-color: #148AA8; 
-  width: 0.001%;
-" class="progress-item"></span><span style="
   background-color: #9400ff; 
   width: 0.001%;
 " class="progress-item"></span><span style="
-  background-color: #f7931e; 
+  background-color: #148AA8; 
   width: 0.001%;
 " class="progress-item"></span><span style="
   background-color: #a91e50; 
+  width: 0.001%;
+" class="progress-item"></span><span style="
+  background-color: #f7931e; 
   width: 0.001%;
 " class="progress-item"></span><span style="
   background-color: #c1d026; 
@@ -290,7 +290,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C#</span>
-  <span class="percent">58.80%</span>
+  <span class="percent">58.79%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -306,7 +306,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">15.48%</span>
+  <span class="percent">15.49%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -386,7 +386,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">0.70%</span>
+  <span class="percent">0.69%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
@@ -402,7 +402,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">0.64%</span>
+  <span class="percent">0.65%</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
@@ -904,22 +904,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #148AA8;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">VCL</span>
-  <span class="percent">0.00%</span>
-</li>
-<li style="animation-delay: 6150ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #9400ff;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -932,11 +916,11 @@ div.ellipsis {
   <span class="lang">ASP.NET</span>
   <span class="percent">0.00%</span>
 </li>
-<li style="animation-delay: 6300ms;">
+<li style="animation-delay: 6150ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #f7931e;" 
+      style="fill: #148AA8;" 
       viewBox="0 0 16 16" 
       version="1.1" 
       width="16" 
@@ -945,10 +929,10 @@ div.ellipsis {
       fill-rule="evenodd" 
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
-  <span class="lang">Handlebars</span>
+  <span class="lang">VCL</span>
   <span class="percent">0.00%</span>
 </li>
-<li style="animation-delay: 6450ms;">
+<li style="animation-delay: 6300ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -962,6 +946,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">EJS</span>
+  <span class="percent">0.00%</span>
+</li>
+<li style="animation-delay: 6450ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #f7931e;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Handlebars</span>
   <span class="percent">0.00%</span>
 </li>
 <li style="animation-delay: 6600ms;">
