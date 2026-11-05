@@ -134,43 +134,43 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #7355dd; 
-  width: 58.572%;
+  width: 58.638%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 15.363%;
+  width: 15.338%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 7.664%;
+  width: 7.652%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 6.267%;
+  width: 6.257%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 4.902%;
+  width: 4.894%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 1.680%;
+  width: 1.678%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.736%;
+  width: 0.735%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 0.643%;
+  width: 0.642%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 0.626%;
+  width: 0.625%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.599%;
+  width: 0.598%;
 " class="progress-item"></span><span style="
   background-color: #438eff; 
   width: 0.478%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.429%;
+  width: 0.428%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.331%;
+  width: 0.330%;
 " class="progress-item"></span><span style="
   background-color: #A97BFF; 
   width: 0.296%;
@@ -179,13 +179,13 @@ div.ellipsis {
   width: 0.246%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 0.245%;
+  width: 0.244%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.190%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 0.170%;
+  width: 0.169%;
 " class="progress-item"></span><span style="
   background-color: #db5855; 
   width: 0.126%;
@@ -203,7 +203,7 @@ div.ellipsis {
   width: 0.037%;
 " class="progress-item"></span><span style="
   background-color: #b845fc; 
-  width: 0.031%;
+  width: 0.030%;
 " class="progress-item"></span><span style="
   background-color: #B83998; 
   width: 0.029%;
@@ -299,7 +299,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C#</span>
-  <span class="percent">58.57%</span>
+  <span class="percent">58.64%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -315,7 +315,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">15.36%</span>
+  <span class="percent">15.34%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -331,7 +331,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">7.66%</span>
+  <span class="percent">7.65%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -347,7 +347,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">6.27%</span>
+  <span class="percent">6.26%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -363,7 +363,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">4.90%</span>
+  <span class="percent">4.89%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -395,7 +395,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">0.74%</span>
+  <span class="percent">0.73%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
@@ -427,7 +427,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">0.63%</span>
+  <span class="percent">0.62%</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
